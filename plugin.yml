@@ -1,0 +1,10 @@
+name: PantherGear
+author: Jestiz
+main: net.pantherhq.panthergear.PantherGear
+version: 1.0
+description: A fun plugin lmao.
+
+commands:
+  panthergear:
+    aliases: pg
+    description: Gives yourself an item.
